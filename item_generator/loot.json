@@ -1,0 +1,31 @@
+{
+    "gold": {
+        "min": 10,
+        "max": 100
+    },
+    "treasure": [
+        "Gemstone",
+        "Silver Chalice",
+        "Golden Crown",
+        "Jeweled Dagger",
+        "Silk Robe"
+    ],
+    "potions": [
+        "Healing Potion",
+        "Greater Healing Potion",
+        "Superior Healing Potion",
+        "Potion of Invisibility"
+    ],
+    "junk": [
+        "broken candles",
+        "rusted metal pot",
+        "shards of a broken jar",
+        "moldy wooden bucket",
+        "6 inch piece of rope",
+        "A bag of rusty, bent nails",
+        "glass amrbles",
+        "blood-stained socks",
+        "water-logged book",
+        "A human skull"
+    ]
+}
